@@ -15,4 +15,4 @@
     12 For each app, compute its minimum and maximum Sentiment_polarity
 
 
-IF the file doesn't upload, try wthis URL: https://nbviewer.jupyter.org/github/KinaBona/Projects/blob/master/PRGETTOCS.ipynb
+IF the file doesn't upload, try wthis URL: https://nbviewer.jupyter.org/github/KinaBona/Projects/blob/master/PROGETTOCS.ipynb
