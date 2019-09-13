@@ -13,3 +13,6 @@
     10 For each genre, compute the average rating. What is the genre with highest average?
     11 For each app, compute the approximate income, obtain as a product of number of installs and price.
     12 For each app, compute its minimum and maximum Sentiment_polarity
+
+
+IF the file doesn't upload, try wthis URL: https://nbviewer.jupyter.org/github/KinaBona/Projects/blob/master/PRGETTOCS.ipynb
